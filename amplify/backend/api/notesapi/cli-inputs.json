@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "notesapi",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/tania.drab/altoros/aws/amplify-training-project/amplify/backend/api/notesapi/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
